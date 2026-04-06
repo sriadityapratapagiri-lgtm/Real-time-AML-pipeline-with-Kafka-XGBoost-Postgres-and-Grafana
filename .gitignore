@@ -1,0 +1,12 @@
+# Virtual Environments
+venv_sklearn/
+.finance/
+__pycache__/
+
+# Data and Models
+*.csv
+*.zip
+*.pkl
+
+# OS Files
+.DS_Store
