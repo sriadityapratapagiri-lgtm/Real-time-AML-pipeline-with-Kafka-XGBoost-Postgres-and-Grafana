@@ -1,0 +1,26 @@
+# Ignore large and medium dataset folders
+large/
+medium/
+small/
+
+# Python cache and environment
+__pycache__/
+*.py[cod]
+*.egg-info/
+env/
+venv/
+ENV/
+
+# Jupyter checkpoints and outputs
+.ipynb_checkpoints/
+# *.ipynb
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Model artifacts
+*.joblib
+*.pkl
+*.onnx
+*.json
